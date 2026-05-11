@@ -1,3 +1,4 @@
 # Instagram-data-analysis-
 hi there
-this is the instagram data analysis 
+this is the data analysis demo repo
+
